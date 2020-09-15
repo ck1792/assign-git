@@ -1,0 +1,4 @@
+1.gitignore file is a plain text file where each line contains a pattern for files/directories to ignore. 
+2.A fast-forward is what Git does when you merge or rebase against a branch that is simply ahead the one you have checked-out. 
+3.Branching allows each developer to branch out from the original code base and isolate their work from others. 
+4.You can have as many remotes as you want, but you can only have one remote named "origin".
